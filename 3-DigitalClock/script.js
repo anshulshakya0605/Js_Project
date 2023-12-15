@@ -1,2 +1,3 @@
-document.getElementById('clock');
-document.querySelector('clock')
+const clocl = document.getElementById('clock');
+// document.querySelector('clock')
+
